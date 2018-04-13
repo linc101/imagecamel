@@ -5,7 +5,8 @@
 ## 依赖
 * Docker
 * Git
-* Sha1sum
+* Sha1sum 
+
 ## 已知问题
 * 镜像第一次拉取速度比较慢，建议配置dockerhub 加速
 * 在docker ce 17.XX 上不可用
